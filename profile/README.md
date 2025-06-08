@@ -1,4 +1,4 @@
-<img src="./Docs/IMG/ssafit_logo.png" alt="로고" width="50%" />
+<img src="../Docs/IMG/ssafit_logo.png" alt="로고" width="50%" />
 
 # 📘 SSAFIT 운동 영상 추천 및 리뷰 서비스
 ###  운동 영상 정보를 기반으로 한 추천, 리뷰 및 마이페이지 기능 통합 플랫폼
@@ -156,7 +156,7 @@ src/
 
 ## 6. 주요 페이지
 ### 메인 페이지
-<img src="./Docs/IMG/메인페이지.png" alt="메인 페이지" width="50%" />
+<img src="../Docs/IMG/메인페이지.png" alt="메인 페이지" width="50%" />
 
 - 운동 부위 필터링 및 최신순, 조회수순 정렬
 - TOP 3 이용자 표시
@@ -164,36 +164,36 @@ src/
 - 검색 기능
 
 ### 영상 상세보기
-<img src="./Docs/IMG/영상상세보기_리뷰_영상추천.png" alt="영상 상세보기" width="50%" />
+<img src="../Docs/IMG/영상상세보기_리뷰_영상추천.png" alt="영상 상세보기" width="50%" />
 
 - 관련 영상의 리뷰 글 작성하기
 - GPT 기반 운동 영상 추천
 - 영상 찜 기능
 
 ### 영상 게시판
-<img src="./Docs/IMG/영상게시판.png" alt="영상 게시판" width="50%" />
+<img src="../Docs/IMG/영상게시판.png" alt="영상 게시판" width="50%" />
 
 - 영상 글쓰기
 - 영상 필터링, 정렬, 검색 기능
 
 ### 리뷰 게시판
-<img src="./Docs/IMG/리뷰게시판.png" alt="리뷰 게시판" width="50%" />
+<img src="../Docs/IMG/리뷰게시판.png" alt="리뷰 게시판" width="50%" />
 
 - 리뷰 글쓰기
 
 ### 리뷰 상세보기
-<img src="./Docs/IMG/리뷰상세보기_댓글.png" alt="리뷰 상세보기" width="50%" />
+<img src="../Docs/IMG/리뷰상세보기_댓글.png" alt="리뷰 상세보기" width="50%" />
 
 - 리뷰 달린 영상 시청 가능
 - 댓글 달기 기능
 
 ### 이벤트
-<img src="./Docs/IMG/이벤트.png" alt="이벤트" width="50%" />
+<img src="../Docs/IMG/이벤트.png" alt="이벤트" width="50%" />
 
 - 최대 이용시간 TOP 10 사용자
 
 ### 마이 페이지
-<img src="./Docs/IMG/마이페이지.png" alt="마이 페이지" width="50%" />
+<img src="../Docs/IMG/마이페이지.png" alt="마이 페이지" width="50%" />
 
 - 사용자의 찜, 업로드 영상, 리뷰, 댓글 등을 불러오기
 - 각 탭 이동하면서 검색 및 정렬
